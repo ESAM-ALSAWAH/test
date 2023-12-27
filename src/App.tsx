@@ -11,7 +11,6 @@ const App = (): JSX.Element => {
       <Hero />
       <FirstSection />
       <SecondeSection />
-
       <ThirdSection />
       <Footer />
     </div>

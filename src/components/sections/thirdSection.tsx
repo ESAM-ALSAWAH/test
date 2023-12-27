@@ -1,4 +1,3 @@
-import React from "react";
 import lineImage from "@/assets/line.png";
 import { Section } from "@/components/sections/Section";
 

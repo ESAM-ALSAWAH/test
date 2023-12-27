@@ -1,4 +1,3 @@
-import React from "react";
 import image3 from "@/assets/image3.png";
 import image1 from "@/assets/image1.png";
 import { Section } from "@/components/sections/Section";
